@@ -1,4 +1,4 @@
-package com.challenge.file;
+package com.fileoperations.base;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
